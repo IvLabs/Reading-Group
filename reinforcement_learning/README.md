@@ -1,6 +1,6 @@
 ## Reinforcement Learning
 
-Time : 3 pm Indian Standard Time
+Time : 3 pm Indian Standard Time<br>
 Day : Saturday
 
 | Paper                                                                                                                                                                                                              | Presenter                                                         | Date                                        | 
